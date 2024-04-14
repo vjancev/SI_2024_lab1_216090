@@ -1,0 +1,21 @@
+4.git init
+5.git remote add origin https://github.com/vjancev/SI_2024_lab1_216090
+6.git add README.md
+git commit -m "Initial commit"
+7.git add SILab1_1.java
+git commit -m "Add starter code"
+git add SILab1_2.java
+git commit -m "Add starter code"
+git add SILabMain.java
+git commit -m "Add starter code"
+git push -f origin master
+8.git branch bug1
+git branch bug2
+28.git log > log.txt
+git commit -m "Final commit"
+git add 216090.txt
+git commit -m "Final commit"
+29.git pull origin
+
+
+
